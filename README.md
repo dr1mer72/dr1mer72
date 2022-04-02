@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/dr1mer/" target="_blank">Vasiliy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Freelance Junior manual QA, learning test automatisation with .NET</h3>
+
 
 <!--
 **dr1mer72/dr1mer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
