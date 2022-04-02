@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Freelance Junior manual QA, learning test automatisation with .NET</h3>
 
+<h3 align="left">Skills:</h3>
+<img src="https://user-images.githubusercontent.com/74711824/161384856-d9b33536-9a9d-4caf-a127-dfc136868a65.svg" width="100" height="50"></img>
+
 
 <!--
 **dr1mer72/dr1mer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
